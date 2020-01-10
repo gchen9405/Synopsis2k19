@@ -1,3 +1,2 @@
 # Synopsis2k19
-We're so cool<br/>
-iheartfluffy
+All the actually useful stuff in one place. 
